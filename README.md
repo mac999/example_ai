@@ -1,1 +1,1 @@
-# example_ai
+# Example for AI
